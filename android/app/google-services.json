@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589787560189",
+    "project_id": "fir-res-76373",
+    "storage_bucket": "fir-res-76373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589787560189:android:5dc5ddfd37cbe39b17a694",
+        "android_client_info": {
+          "package_name": "com.example.flut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP-6J9SuN8GPvqu6UEK6JfJlImUaCbESQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
